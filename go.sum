@@ -1,2 +1,4 @@
 github.com/gowasm/go-js-dom v0.0.1 h1:FCbfUmS3wPOepLmQ2pQzicHUEoW9KIYiM+osR/NE1n8=
 github.com/gowasm/go-js-dom v0.0.1/go.mod h1:K37PTzggLHdwZwVKIlgreQbR7b1pwrudrZEFYcPifKE=
+github.com/gowasm/go-js-dom v0.0.2 h1:2xCIv9t7rywZHnVYFPKBoXpHUVS5VIqi68ja9eDpN9c=
+github.com/gowasm/go-js-dom v0.0.2/go.mod h1:K37PTzggLHdwZwVKIlgreQbR7b1pwrudrZEFYcPifKE=
